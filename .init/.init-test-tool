@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/mui-lab-integration-guide-for-nextjs-133293-133302/nextjs_frontend"
+}
